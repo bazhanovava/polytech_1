@@ -1,7 +1,9 @@
-Uncedo! Ndidinga umntu
-Uncedo! Hayi nje anybody
-Uncedo! Uyazi ndidinga umntu
-Uncedo!
+<<<<<<< HEAD
+Segítség! Szükségem van valakire.
+Segítség! Nem csak bárki
+Segítség! Tudod, hogy szükségem van valakire.
+Segítség!
+>>>>>>> third
 
 We all live in a yellow submarine
 Yellow submarine, yellow submarine
